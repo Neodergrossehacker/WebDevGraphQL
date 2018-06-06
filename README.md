@@ -13,7 +13,7 @@ $yarn add apollo-server@beta graphql --save
 "Out of the box" EXPRESS-Server Einrichtung
 (Node.js HTTP-Server mit Express-Framework). </br>
 Hostet eure GraphQL API und den GraphQL Playground, 
-eine IDE(integrated development environment) die euch das Schema und Querys testen lässt. 
+eine IDE die euch das Schema und Querys testen lässt. 
 
 <h3>AXIOS</h3>
 Promise based HTTP client für den Browser unnd node.js
