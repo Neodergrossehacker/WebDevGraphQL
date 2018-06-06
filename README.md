@@ -29,3 +29,12 @@ $yarn add axios</br>
 //Cancel requests</br>
 //Automatic transforms for JSON data</br>
 //Client side support for protecting against XSRF
+
+<h3>Nodemon</h3>
+
+$npm install -g nodemon
+$yarn add -g nodemon
+</br></br>
+nodemon will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
+</br></br>
+nodemon does not require any changes to your code or method of development. nodemon wraps your node application and keeps an eye on any files that have changed. Remember that nodemon is a replacement wrapper for node, think of it as replacing the word "node" on the command line when you run your script.
