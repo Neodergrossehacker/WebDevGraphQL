@@ -32,7 +32,7 @@ $yarn add axios</br>
 
 <h3>Nodemon</h3>
 
-$npm install -g nodemon
+$npm install -g nodemon</br>
 $yarn add -g nodemon
 </br></br>
 nodemon will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application.
