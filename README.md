@@ -19,7 +19,7 @@ eine IDE(integrated development environment) die euch das Schema und Querys test
 Promise based HTTP client für den Browser unnd node.js
 </br>
 $npm install axios</br>
-$yarn add axios
+$yarn add axios</br>
 </br>
 //Make XMLHttpRequests from the browser </br>
 //Make http requests from node.js</br>
